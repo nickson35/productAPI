@@ -1,0 +1,19 @@
+[
+  {
+    "id": "1",
+    "name":"t-shirt",
+    "title": "Men Black Cotton Pure Cotton T-shirt",
+    "price": "299",
+    "category":"male",
+    "brand":"roadster"
+  },
+
+  {
+    "id": "2",
+    "name":"saree",
+    "title": "Men Black Cotton Pure Cotton T-shirt",
+    "price": "399",
+    "category":"female",
+    "brand":"banaras"
+  }
+]
