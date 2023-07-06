@@ -1,19 +1,51 @@
 [
   {
-    "id": "1",
-    "name":"t-shirt",
-    "title": "Men Black Cotton Pure Cotton T-shirt",
-    "price": "299",
-    "category":"male",
-    "brand":"roadster"
+    "name": "shirt",
+    "title": "Mens Poly Cotton Full Sleeves Prestigious Fit White Shirt Minister",
+    "img": [
+      "https://cdn.shopify.com/s/files/1/0094/0716/8559/products/1_e3f58e16-2589-46b1-815c-59eefec95b96_500x.jpg?v=1662547243",
+      "https://cdn.shopify.com/s/files/1/0094/0716/8559/products/3_56b6dffa-26a6-4ecb-a0a5-2763a08d686c_500x.jpg?v=1662547188",
+      "https://cdn.shopify.com/s/files/1/0094/0716/8559/products/4_37b61e0a-3566-44c0-9211-511197b9a26a_500x.jpg?v=1662547188"
+    ],
+    "description": "poly cotton shirts are an excellent choice for those seeking comfortable everyday wear. Tailored to provide a prestigious fit, this design is crafted from a premium blend of cotton and polyester, ensuring unmatched comfort, breath ability, and durability. The shirt's regular collar and full sleeves add to its classic appeal, making it an ideal choice for all-day wear in any setting, be it work or leisure. With its impeccable design and superior quality fabric, this shirt is a must-have for those who appreciate classic and timeless fashion statements",
+    "company": "peter england",
+    "category": "mens clothing"
+  },
+  {
+    "name": "pant",
+    "title": "Mens Premium Cotton White Pant",
+    "img": [
+      "https://cdn.shopify.com/s/files/1/0094/0716/8559/products/1_8c7ae3d5-e0e6-48c4-b87e-2a557dcb79ab_500x.jpg?v=1662785051",
+      "https://cdn.shopify.com/s/files/1/0094/0716/8559/products/3_69dfbd64-1522-4734-a2ef-563fb8c964e7_500x.jpg?v=1662785087",
+      "https://cdn.shopify.com/s/files/1/0094/0716/8559/products/5_956376cf-ad12-4616-a461-737a7060ddbb_500x.jpg?v=1662785113"
+    ],
+    "description": "Premium ultimate wrinkle free fabric",
+    "company": "peter england",
+    "category": "mens clothing"
   },
 
   {
-    "id": "2",
-    "name":"saree",
-    "title": "Men Black Cotton Pure Cotton T-shirt",
-    "price": "399",
-    "category":"female",
-    "brand":"banaras"
+    "name": "tshirt",
+    "title": "Black Solid Half Sleeves T-Shirt",
+    "img": [
+      "https://cdn.shopify.com/s/files/1/0266/1125/3320/products/1_a667a902-9fe8-454a-8335-b6f87cf4e0fb_700x.jpg?v=1642834022",
+      "https://cdn.shopify.com/s/files/1/0266/1125/3320/products/5_2a67bcdd-8246-41b4-9638-0b13feda6cb5_700x.jpg?v=1642834052",
+      "https://cdn.shopify.com/s/files/1/0266/1125/3320/products/7_6813fed1-232b-462f-972b-10d385de4ced_700x.jpg?v=1642834052"
+    ],
+    "description": "black t-shirt with 100% cotton best for summer wear, has a regular fit which is not too tight, not too lose.note machine wash, washing in cold water.",
+    "company": "roadster",
+    "category": "mens clothing"
+  },
+  {
+    "name": "casual shoes",
+    "title": "Casual Trainers",
+    "img": [
+      "https://neemans.com/cdn/shop/products/ND-CasualTrainers-ClassicBlack-_WebOptimized_a_1024x.jpg?v=1688060757",
+      "https://neemans.com/cdn/shop/products/ND-CasualTrainers-ClassicBlack-_WebOptimized_b_1024x.jpg?v=1688060757",
+      "https://neemans.com/cdn/shop/products/ND-CasualTrainers-ClassicBlack-_WebOptimized_d_1024x.jpg?v=1688060757"
+    ],
+    "description": "Introducing Casual Trainers, our rendition of sneakers that do more than just make you look good. With a lightweight build, memory foam insole, and slip-resistant soles, these shoes provide comfort for someone looking to adopt an active lifestyle",
+    "company": "roadster",
+    "category": "mens clothing"
   }
 ]
