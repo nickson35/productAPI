@@ -5,15 +5,11 @@ const productScheme = new mongoose.Schema({
     type: String,
     required: true,
   },
-  price: {
-    type: Number,
-    required: true,
-  },
-
-  brand: {
+  
+  company: {
     type: String,
     enum: {
-      values: ["roadster", "banaras"],
+      values: ["roadster", "peter england"],
       message: "this is not supported",
     },
   },

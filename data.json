@@ -1,5 +1,6 @@
 [
   {
+    "id":1,
     "name": "shirt",
     "title": "Mens Poly Cotton Full Sleeves Prestigious Fit White Shirt Minister",
     "img": [
@@ -12,6 +13,7 @@
     "category": "mens clothing"
   },
   {
+    "id":2,
     "name": "pant",
     "title": "Mens Premium Cotton White Pant",
     "img": [
@@ -25,6 +27,7 @@
   },
 
   {
+    "id":3,
     "name": "tshirt",
     "title": "Black Solid Half Sleeves T-Shirt",
     "img": [
@@ -37,6 +40,7 @@
     "category": "mens clothing"
   },
   {
+    "id":4,
     "name": "casual shoes",
     "title": "Casual Trainers",
     "img": [
