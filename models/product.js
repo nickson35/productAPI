@@ -5,7 +5,9 @@ const productScheme = new mongoose.Schema({
     type: String,
     required: true,
   },
-  
+  title: { type: String },
+  img: { type: Buffer, contentType: String },
+  description: { type: String },
   company: {
     type: String,
     enum: {
@@ -13,6 +15,7 @@ const productScheme = new mongoose.Schema({
       message: "this is not supported",
     },
   },
+  category: { type: String },
 });
 
 module.exports = mongoose.model("Product", productScheme);
