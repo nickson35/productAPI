@@ -1,11 +1,11 @@
 const Product = require("../models/product");
 
 const getAllProducts = async (req, res) => {
-  const { brand, name, sort, select } = req.query;
+  const { company, name, sort, select } = req.query;
   const queryObj = {};
 
-  if (brand) {
-    queryObj.brand = brand;
+  if (company) {
+    queryObj.company = company;
   }
 
   if (name) {
@@ -33,7 +33,7 @@ const getAllProducts = async (req, res) => {
   apiData = apiData.skip(skipVar).limit(limitVar);
 
   const Products = await apiData;
-  res.status(200).json({ Products, nbHits: Products.length });
+  res.status(200).json(Products);
 };
 
 module.exports = { getAllProducts };
