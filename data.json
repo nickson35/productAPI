@@ -8,6 +8,8 @@
       "https://cdn.shopify.com/s/files/1/0094/0716/8559/products/4_37b61e0a-3566-44c0-9211-511197b9a26a_500x.jpg?v=1662547188"
     ],
     "description": "poly cotton shirts are an excellent choice for those seeking comfortable everyday wear. Tailored to provide a prestigious fit, this design is crafted from a premium blend of cotton and polyester, ensuring unmatched comfort, breath ability, and durability. The shirt's regular collar and full sleeves add to its classic appeal, making it an ideal choice for all-day wear in any setting, be it work or leisure. With its impeccable design and superior quality fabric, this shirt is a must-have for those who appreciate classic and timeless fashion statements",
+    "size": ["36", "38", "40", "42"],
+    "price": 1199,
     "company": "peter england",
     "category": "mens clothing"
   },
@@ -15,11 +17,13 @@
     "name": "pant",
     "title": "Mens Premium Cotton White Pant",
     "img": [
-      "https://cdn.shopify.com/s/files/1/0094/0716/8559/products/1_8c7ae3d5-e0e6-48c4-b87e-2a557dcb79ab_500x.jpg?v=1662785051",
-      "https://cdn.shopify.com/s/files/1/0094/0716/8559/products/3_69dfbd64-1522-4734-a2ef-563fb8c964e7_500x.jpg?v=1662785087",
-      "https://cdn.shopify.com/s/files/1/0094/0716/8559/products/5_956376cf-ad12-4616-a461-737a7060ddbb_500x.jpg?v=1662785113"
+      "https://ramrajcotton.in/cdn/shop/files/88A9056_500x.jpg?v=1688963798",
+      "https://ramrajcotton.in/cdn/shop/files/88A9059_500x.jpg?v=1688963807",
+      "https://ramrajcotton.in/cdn/shop/files/88A9054_500x.jpg?v=1688963830"
     ],
     "description": "Premium ultimate wrinkle free fabric",
+    "size": ["28", "30", "32", "34"],
+    "price": 2097,
     "company": "peter england",
     "category": "mens clothing"
   },
@@ -33,19 +37,142 @@
       "https://cdn.shopify.com/s/files/1/0266/1125/3320/products/7_6813fed1-232b-462f-972b-10d385de4ced_700x.jpg?v=1642834052"
     ],
     "description": "black t-shirt with 100% cotton best for summer wear, has a regular fit which is not too tight, not too lose.note machine wash, washing in cold water.",
+    "size": ["m", "l", "xl", "xxl"],
+    "price": 700,
     "company": "roadster",
     "category": "mens clothing"
   },
   {
     "name": "casual shoes",
-    "title": "Casual Trainers",
+    "title": "Casual black coloured Trainer shoes",
     "img": [
       "https://neemans.com/cdn/shop/products/ND-CasualTrainers-ClassicBlack-_WebOptimized_a_1024x.jpg?v=1688060757",
       "https://neemans.com/cdn/shop/products/ND-CasualTrainers-ClassicBlack-_WebOptimized_b_1024x.jpg?v=1688060757",
       "https://neemans.com/cdn/shop/products/ND-CasualTrainers-ClassicBlack-_WebOptimized_d_1024x.jpg?v=1688060757"
     ],
     "description": "Introducing Casual Trainers, our rendition of sneakers that do more than just make you look good. With a lightweight build, memory foam insole, and slip-resistant soles, these shoes provide comfort for someone looking to adopt an active lifestyle",
+    "size": ["39", "40", "41", "42"],
+    "price": 3000,
     "company": "roadster",
     "category": "mens clothing"
+  },
+
+  {
+    "name": "t-shirt",
+    "title": "Women Plain Short T-shirts - Teal Blue ",
+    "img": [
+      "https://cupidclothings.com/cdn/shop/products/Cupid-5_3.jpg?v=1677150888",
+      "https://cupidclothings.com/cdn/shop/products/Cupid-5_6.jpg?v=1677150888",
+      "https://cupidclothings.com/cdn/shop/products/Cupid-5_7_8402bda0-09d9-483a-881b-233e25ea9704.jpg?v=1677150888"
+    ],
+    "description": "Cotton short t-shirts for women / girls plain summer tops are available in M, L, XL & 2XL sizes. This half sleeves t-shirt has a round neck and regular fit, making you stand out from others when you wear it.",
+    "size": ["m", "l", "xl", "xxl"],
+    "price": 475,
+    "company": "peter england",
+    "category": "womens clothing"
+  },
+
+  {
+    "name": "jeans",
+    "title": "boyfriend fit front pleat tapered jeans",
+    "img": [
+      "https://www.rareism.com/cdn/shop/products/HERO_b8a73ba3-15e3-44ec-9808-4b883a3659f0_765x.jpg?v=1660187127",
+      "https://www.rareism.com/cdn/shop/products/2DETAIL_792ebbfe-3a32-42d8-a1b8-7b2df7afb00f_765x.jpg?v=1660187127",
+      "https://www.rareism.com/cdn/shop/products/3_6694df62-0695-486d-87a1-670901c92c11_765x.jpg?v=1660187127"
+    ],
+    "description": "a boyfriend fit cotton elastane fabric denim with personalized detailing, with button closure with five pockets, best paired with everyday casual look ",
+    "size": ["26", "28", "30", "32"],
+    "price": 2024,
+    "company": "peter england",
+    "category": "womens clothing"
+  },
+
+  {
+    "name": "saree",
+    "title": "Womens Grey & White Flower Printed Pure Cotton Saree PCS47",
+    "img": [
+      "https://ramrajcotton.in/cdn/shop/files/01_ea25c04e-2fa9-4950-bcd8-9975cb9635e6_500x.jpg?v=1687582522",
+      "https://ramrajcotton.in/cdn/shop/files/03_dea15d70-2abc-475d-bb4f-1d7df766fce6_500x.jpg?v=1687582522",
+      "https://ramrajcotton.in/cdn/shop/files/04_9981b52b-6d2a-496b-8ff0-3305c495af2c_500x.jpg?v=1687582522"
+    ],
+    "description": "Pure Cotton saree are the most preferred sarees for Indian Women. The specialty of this fabric is, it keeps you cool in summer and warm in winter making it as one of the finest fabrics materials to choose.",
+    "size": ["5.9", "6.1", "6.3", "6.4"],
+    "price": 875,
+    "company": "Ramyyam",
+    "category": "womens clothing"
+  },
+
+  {
+    "name": "sandals",
+    "title": "Bata Tan Sandal For Women",
+    "img": [
+      "https://www.bata.in/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dw96668300/images/large/5613078_1.jpeg?sw=817",
+      "https://www.bata.in/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dw39227db0/images/large/5613078_3.jpeg?sw=817",
+      "https://www.bata.in/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dwd91629e1/images/large/5613078_6.jpeg?sw=817"
+    ],
+    "description": "comfy bata sandals for women manufactured by Jmd Ftwr Unit-2 with material used for upper is pu syntehetic and with pu lining ",
+    "size":  ["39", "40", "41", "42"],
+    "price": 1499,
+    "company": "bata",
+    "category": "womens clothing"
+  },
+
+  {
+    "name": "shirt",
+    "title": " comfy summer Cotton shirt for kids",
+    "img": [
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F17%2F23%2F172351e220cc4a70dc66f1014ae034deebc7f936.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F5e%2Fee%2F5eee9abdc8f7fe3a5d2d809a741af56b46f388c3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ],
+    "description": "Shirt in an airy cotton weave with a turn-down collar, buttons down the front and a yoke at the back. Long sleeves with buttoned cuffs, and a rounded hem",
+    "size": ["3-4", "4-5", "5-6"],
+    "price": 519,
+    "company": "peter england",
+    "category": "kids clothing"
+  },
+
+  {
+    "name": "jeans",
+    "title": "Solid Long Trousers Blue",
+    "img": [
+      "https://www.chicco.in/dw/image/v2/BGMM_PRD/on/demandware.static/-/Sites-chicco-master/default/v1689512133734//fashion-Images-by-season/fashion-images-221/boys/boys-jeans-and-trousers/jeans-boys/09008597000000/boys-jeans-long-1.JPG?sw=800&sh=800&sm=fit",
+      "https://www.chicco.in/dw/image/v2/BGMM_PRD/on/demandware.static/-/Sites-chicco-master/default/v1689512133734//fashion-Images-by-season/fashion-images-221/boys/boys-jeans-and-trousers/jeans-boys/09008597000000/boys-jeans-long-2.JPG?sw=800&sh=800&sm=fit",
+      "https://www.chicco.in/dw/image/v2/BGMM_PRD/on/demandware.static/-/Sites-chicco-master/default/v1689512133734//fashion-Images-by-season/fashion-images-221/boys/boys-jeans-and-trousers/jeans-boys/09008597000000/boys-jeans-long-3.JPG?sw=800&sh=800&sm=fit"
+    ],
+    "description": "long trousers taliored from stretch denim fabric with Checkered print coin pocket ",
+    "size": ["3-4", "4-5", "5-6"],
+    "price": 1599,
+    "company": "peter england",
+    "category": "kids clothing"
+  },
+
+  {
+    "name": "t-shirts",
+    "title": "Gant Boys Printed Organic Cotton T-shirt",
+    "img": [
+      "https://www.iconicindia.com/cdn/shop/products/1_27dbd86f-6396-47ec-8de5-43285e27d1a8_700x.jpg?v=1681451305",
+      "https://www.iconicindia.com/cdn/shop/products/2_ee79776b-a561-49af-a7b6-8269847c6b80_700x.jpg?v=1681451305",
+      "https://www.iconicindia.com/cdn/shop/products/4_a21e828b-6d8d-4c93-8bb5-5b7bd9bdfaa1_700x.jpg?v=1681451306"
+    ],
+    "description": "This iconic GANT Boys Navy Solid Round Neck t-shirt is crafted with 100% cotton for a classic, vintage-inspired look. With a regular, unisex fit, it's perfect for casual days.",
+    "size": ["3-4", "4-5", "5-6"],
+    "price": 1499,
+    "company": "roadster",
+    "category": "kids clothing"
+  },
+
+  {
+    "name": " kids shoes",
+    "title": "Marvel Avengers Navy Blue & Grey Sports Shoes for Boys",
+    "img": [
+      "https://www.shopdisney.in/media/catalog/product/cache/dff98280ed764012eadfa777851316fd/m/a/mapbsp4283-navygrey-1.jpg",
+      "https://www.shopdisney.in/media/catalog/product/cache/dff98280ed764012eadfa777851316fd/m/a/mapbsp4283-navygrey-3.jpg",
+      "https://www.shopdisney.in/media/catalog/product/cache/dff98280ed764012eadfa777851316fd/m/a/mapbsp4283-navygrey-5.jpg"
+    ],
+    "description": "Iron Man? Captain America? Hulk? You asked for it and we got it! Choose a pick of your little ones' favorite superhero, and grab these sports shoes featuring Caption America's shield. Pair these navy & grey sports shoes for boys with denim, shorts or Bermudas and add a casual and funky touch to any ensemble.",
+    "size": ["3-4", "4-5", "5-6"],
+    "price": 1199,
+    "company": "roadster",
+    "category": "kids clothing"
   }
 ]
