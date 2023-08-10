@@ -6,10 +6,10 @@ const productScheme = new mongoose.Schema({
     required: true,
   },
   title: { type: String },
-  img: { type: [String], required: true },
+  img: { type: Array, required: true },
   description: { type: String },
   size: { type: [String], required: true },
-  price: { type: Number},
+  price: { type: Number },
   company: {
     type: String,
     enum: {
