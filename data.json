@@ -3,15 +3,9 @@
     "name": "shirt",
     "title": "Mens Poly Cotton Full Sleeves Prestigious Fit White Shirt Minister",
     "img": [
-      {
-        "url": "https://cdn.shopify.com/s/files/1/0094/0716/8559/products/1_e3f58e16-2589-46b1-815c-59eefec95b96_500x.jpg?v=1662547243"
-      },
-      {
-        "url": "https://cdn.shopify.com/s/files/1/0094/0716/8559/products/3_56b6dffa-26a6-4ecb-a0a5-2763a08d686c_500x.jpg?v=1662547188"
-      },
-      {
-        "url": "https://cdn.shopify.com/s/files/1/0094/0716/8559/products/4_37b61e0a-3566-44c0-9211-511197b9a26a_500x.jpg?v=1662547188"
-      }
+      "https://cdn.shopify.com/s/files/1/0094/0716/8559/products/1_e3f58e16-2589-46b1-815c-59eefec95b96_500x.jpg?v=1662547243",
+      "https://cdn.shopify.com/s/files/1/0094/0716/8559/products/3_56b6dffa-26a6-4ecb-a0a5-2763a08d686c_500x.jpg?v=1662547188",
+      "https://cdn.shopify.com/s/files/1/0094/0716/8559/products/4_37b61e0a-3566-44c0-9211-511197b9a26a_500x.jpg?v=1662547188"
     ],
     "description": "poly cotton shirts are an excellent choice for those seeking comfortable everyday wear. Tailored to provide a prestigious fit, this design is crafted from a premium blend of cotton and polyester, ensuring unmatched comfort, breath ability, and durability. The shirt's regular collar and full sleeves add to its classic appeal, making it an ideal choice for all-day wear in any setting, be it work or leisure. With its impeccable design and superior quality fabric, this shirt is a must-have for those who appreciate classic and timeless fashion statements",
     "size": ["36", "38", "40", "42"],
